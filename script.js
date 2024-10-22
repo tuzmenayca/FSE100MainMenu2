@@ -2,7 +2,8 @@ let colorlist = ['gold', 'yellow', 'turquoise', 'red']
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  background(0);
+  background(120);
+  console.log("Hello World")
  
   
 }
